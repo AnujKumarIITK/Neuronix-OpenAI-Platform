@@ -321,9 +321,7 @@ Future enhancements planned:
 - GPT model selection
 - Voice assistant support
 - File upload support
-- Code execution sandbox
 - AI image generation
-- Multi-language support
 - Team collaboration
 - Cloud deployment
 - Advanced prompt templates
