@@ -41,7 +41,7 @@ const Signup = () => {
     try {
 
       await axios.post(
-        "http://localhost:8080/api/auth/signup",
+        "https://neuronix-openai-platform-backend.onrender.com/api/auth/signup",
         formData
       );
 
