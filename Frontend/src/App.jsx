@@ -69,7 +69,7 @@ function App() {
         reverseOrder={false}
         toastOptions={{
           style: {
-            background: '#1c1c24', // Matches your custom dark mode theme
+            background: '#1c1c24',
             color: '#fff',
             border: '1px solid rgba(255, 255, 255, 0.1)',
             borderRadius: '12px',
@@ -78,7 +78,7 @@ function App() {
           },
           success: {
             iconTheme: {
-              primary: '#14b8a6', // Teal color matching your primary buttons
+              primary: '#14b8a6',
               secondary: '#fff',
             },
           },
