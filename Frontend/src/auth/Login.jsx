@@ -38,7 +38,7 @@ const Login = () => {
     try {
 
       const response = await axios.post(
-        "https://neuronix-openai-platform-backend.onrender.com/api/auth/login",
+        "http://localhost:8080/api/auth/login",
         formData
       );
 
